@@ -1,4 +1,4 @@
-# FullStackNodeApp (Ghost Sightings)
+# FullStackNodeApp (Community Post Board)
 
 This is a small full-stack Node.js project that serves a simple “sightings” website and exposes a lightweight JSON API. The backend is built using Node’s native `http` module (no Express), ES Modules, and file-based data storage. The project focuses on backend fundamentals such as routing, file I/O, error handling, and real-time updates.
 
