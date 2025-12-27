@@ -59,3 +59,8 @@ fullStackNodeApp/
 ```
 ---
 
+## Future Improvements
+
+- Add unit tests for utility functions
+- Add a real database (SQLite/Postgres) instead of a JSON file
+- Add GitHub Actions CI (lint + test on push)
