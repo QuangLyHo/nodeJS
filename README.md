@@ -26,7 +26,7 @@ This is a small full-stack Node.js project that serves a simple “sightings” 
 ---
 
 ## Project structure
-
+```
 fullStackNodeApp/
 ├── server.js
 ├── package.json
@@ -56,6 +56,6 @@ fullStackNodeApp/
 │ ├── news.js
 │ ├── style.css
 │ └── images/
-
+```
 ---
 
